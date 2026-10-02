@@ -1,17 +1,15 @@
-# DotDog downloads
+# DotDog 무료판
 
-A little dog that lives on your desktop.
+바탕화면에 사는 작은 강아지. 기본 펫 기능은 **기간 제한 없이 무료**입니다.
 
-**Download and installation guide:** https://lnrgame.com/dotdog
+- 무료: 펫 반응, 쓰다듬기, 공놀이, 이름 설정, 친밀도
+- 정식 이용권: 게임, 외형 변경, 할 일, 뽀모도로, Relax, 에이전트 연동, 대화 히스토리
+- Windows 10/11 x64, macOS 12 이상 Apple Silicon 및 Intel 지원
+- 계정·결제 정보 없이 이용하며 자동 결제되지 않습니다.
 
-DotDog Trial is free for 7 days from the first launch. No account or payment details are required, and there is no automatic charge. Try petting, fetch, games, appearance and friendship. Activate a full license in the same app to keep your dog and unlock helper features.
+[다운로드 및 제품 안내](https://lnrgame.com/dotdog#download) · [최신 Release](https://github.com/yjsplay2002/dotdog-releases/releases/latest)
 
-- Windows 10/11, 64-bit: choose `win-x64.exe`.
-- macOS 12 or newer, Apple Silicon: choose `mac-arm64.dmg`.
-- macOS 12 or newer, Intel: choose `mac-x64.dmg`.
+이 저장소는 공개 설치 파일 배포용입니다. 소스 코드는 포함하지 않습니다.
+Windows 코드 서명 및 Apple 공증은 적용되지 않았습니다. 설치 안내는 홈페이지를 확인하세요.
 
-Installers are not Windows-signed or Apple-notarized. See the product page for installation and accessibility permission instructions. Release assets include SHA-256 checksums.
-
-This public repository hosts official binary downloads only. Application source code is maintained separately. DotDog and its characters are proprietary software by Limitless Rocket. Bundled third-party components retain their own licenses; notices are included with the application.
-
-Support: support@lnrgame.com
+문의: support@lnrgame.com
